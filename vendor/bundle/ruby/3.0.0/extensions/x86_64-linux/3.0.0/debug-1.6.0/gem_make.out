@@ -1,0 +1,16 @@
+current directory: /home/qoosim/microverse/projects/rails-react/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.6.0/ext/debug
+/home/qoosim/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/qoosim/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220712-7036-qskipq.rb extconf.rb
+creating Makefile
+
+current directory: /home/qoosim/microverse/projects/rails-react/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.6.0/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/qoosim/microverse/projects/rails-react/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.6.0/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/qoosim/microverse/projects/rails-react/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.6.0/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220712-7036-a1r73m/debug

@@ -7,9 +7,9 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 Greeting.create([
-  { name: 'Hello there' },
-  { name: 'Happy coding' },
-  { name: 'As-salaam alaykum' },
-  { name: 'Ekaasan oo' },
-  { name: 'Coding is not easy' },
+  { message: 'Hello there' },
+  { message: 'Happy coding' },
+  { message: 'As-salaam alaykum' },
+  { message: 'Ekaasan oo' },
+  { message: 'Coding is not easy' },
 ])

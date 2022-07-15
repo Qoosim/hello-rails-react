@@ -34,7 +34,7 @@ const greetingsActions = () => async (dispatch) => {
   const data = await getGreeting();
     return dispatch({
       type: GET_GREETING_SUCCESS,
-      payload: data.message,
+      payload: data.greeting,
     });
 };
 
